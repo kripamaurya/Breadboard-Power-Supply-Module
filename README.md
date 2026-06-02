@@ -4,14 +4,6 @@
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="Images/3D_View_1.png" alt="Breadboard Power Supply Module" width="700">
-</p>
-
----
-
 ## 🚀 Features
 
 ✅ Dual regulated outputs (5V & 3.3V)
@@ -93,9 +85,9 @@ Breadboard-Power-Supply-Module/
 
 ## 📸 Additional Views
 
- 3D View 
- | ![](Images/3D_View_2.png.jpeg) |
+ # 📸 Preview
 
+![3D View](Images/3D_View.png.jpeg)
 ---
 
 ## 📄 License
