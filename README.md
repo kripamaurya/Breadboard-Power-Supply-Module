@@ -85,9 +85,8 @@ Breadboard-Power-Supply-Module/
 
 ## 📸 Additional Views
 
- # 📸 Preview
+ ![Breadboard Power Supply Module](3D_View.png.jpeg)
 
-![3D View](Images/3D_View.png.jpeg)
 ---
 
 ## 📄 License
